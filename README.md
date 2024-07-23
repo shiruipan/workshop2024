@@ -6,3 +6,8 @@ a software
 
 ## GitHub
 a website
+
+## Submission of your own git log
+- repeat the process multiple times
+- repeat commit commands
+- push
