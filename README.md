@@ -11,3 +11,6 @@ a website
 - repeat the process multiple times
 - repeat commit commands
 - push
+
+
+### More info
